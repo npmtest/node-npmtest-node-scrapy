@@ -1,4 +1,7 @@
-# test coverage for  [node-scrapy (v0.3.1)](https://github.com/eeshi/node-scrapy)  [![npm package](https://img.shields.io/npm/v/npmtest-node-scrapy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-scrapy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-scrapy.svg)](https://travis-ci.org/npmtest/node-npmtest-node-scrapy)
+# npmtest-node-scrapy
+
+#### test coverage for  [node-scrapy (v0.3.1)](https://github.com/eeshi/node-scrapy)  [![npm package](https://img.shields.io/npm/v/npmtest-node-scrapy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-scrapy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-scrapy.svg)](https://travis-ci.org/npmtest/node-npmtest-node-scrapy)
+
 #### Simple, lightweight and expressive web scraping with Node.js
 
 [![NPM](https://nodei.co/npm/node-scrapy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-scrapy)
